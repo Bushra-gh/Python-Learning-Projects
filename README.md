@@ -1,4 +1,7 @@
 # Python-Learning-Projects
-Simple Python projects for practice and learning, improving over time
+This repository contains beginner Python projects:
+- Number Guessing Game
+- Rock Paper Scissors
+- Unit Converter
 
 I'm updating and improving them as I keep learning.
